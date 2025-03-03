@@ -23,7 +23,7 @@ A simple full-stack expense tracker application that allows users to add, view, 
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Anishig/EXPENSE_TRACKER
 cd expense-tracker
 ```
 
